@@ -40,7 +40,7 @@ st.success(f"Predicted Sales: {prediction[0]:.2f}")
 
 # Show dataset
 if st.checkbox("Show Dataset"):
-    st.write(data.head())
+    st.write(data)
 
 # Visualization
 st.subheader("📊 Data Visualization")
