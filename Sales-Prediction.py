@@ -5,7 +5,7 @@ import numpy as np
 from sklearn.linear_model import LinearRegression
 
 # Title
-st.title("📊 Machine Learning-Based Sales Prediction System")
+st.title("Sales Prediction System")
 
 st.write("Enter advertising budget to predict sales")
 
